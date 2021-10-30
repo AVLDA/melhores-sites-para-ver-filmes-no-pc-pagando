@@ -6,6 +6,10 @@
   padding: 10px
 }
 
+.foto{
+border-radius:50px;    
+}
+
 h1 {
   color:#DF0101;
  text-align:center;
@@ -38,12 +42,9 @@ h4{
   padding: 10px
 }
 
-.linknetflix {
+.link {
   color: #DF0101;
     font-size:40px;
   padding:50px;
-}
-
-.foto1{
-border-radius:360px;    
+  margin:20px
 }
