@@ -30,12 +30,12 @@ text-align:center
 h3 {
   text-align:center;
   color: #DF0101;
-  font-size:40px;
+  font-size:470px;
 }
 
 h4{
   color:#ffffff ;
-  font-size:20px ;
+  font-size:30px ;
   text-align:center;
 }
 
@@ -49,8 +49,7 @@ h4{
 
 .link {
   color: #DF0101;
-    font-size:20px;
+    font-size:30px;
   padding:50px;
   margin:50px
 }
-
